@@ -1,0 +1,1 @@
+# C-Gyakorlas_adattar
